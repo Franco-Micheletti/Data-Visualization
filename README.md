@@ -4,10 +4,10 @@ Data visualization projects of personal interests
 
 Tools used :
 
-Python 3
-Matplotlib
-API Requests
-Json file manipulation
+Python 3,
+Matplotlib,
+API Requests,
+Json file manipulation,
 
 ## SUBPLOTS + MEAN
 
