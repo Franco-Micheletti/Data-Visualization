@@ -1,4 +1,4 @@
-# Main-Projects
+# Data Visualization
 
 Data visualization projects of personal interests
 
