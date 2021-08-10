@@ -13,7 +13,10 @@ Json file manipulation,
 
 ![](Images/SUBPLOTS+MEAN.png)
 
-
 ## PIE PLOT
 
 ![](Images/PIE%20PLOT.png)
+
+## MULTIPLE AXES SUBPLOT FIGURE
+
+![](Images/SEABORN%20MUTIPLE%20AXES%20SUBPLOT.png)
