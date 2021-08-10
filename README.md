@@ -9,6 +9,10 @@ Matplotlib,
 API Requests,
 Json file manipulation,
 
+## MULTIPLE AXES FIGURE USING SEABORN
+
+![](Images/SEABORN%20MUTIPLE%20AXES%20SUBPLOT.png)
+
 ## SUBPLOTS + MEAN
 
 ![](Images/SUBPLOTS+MEAN.png)
@@ -17,6 +21,3 @@ Json file manipulation,
 
 ![](Images/PIE%20PLOT.png)
 
-## MULTIPLE AXES FIGURE USING SEABORN
-
-![](Images/SEABORN%20MUTIPLE%20AXES%20SUBPLOT.png)
