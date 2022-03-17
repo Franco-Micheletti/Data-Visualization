@@ -6,6 +6,7 @@ Tools used :
 
 Python 3,
 Matplotlib,
+Seaborn,
 API Requests,
 Json file manipulation,
 
